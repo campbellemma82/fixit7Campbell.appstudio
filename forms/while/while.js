@@ -1,4 +1,3 @@
-/*
 //Number 1
 let i = 1
   while(i < 5) {
@@ -6,4 +5,3 @@ let i = 1
   i++;
   }
   console.log(`The loop is now done`)
-*/
